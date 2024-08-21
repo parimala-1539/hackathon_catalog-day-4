@@ -1,0 +1,54 @@
+Welcome to the Enhanced Three-Level Password System.
+
+Enter the textual password: ********
+Textual password correct.
+
+Image-Based Pattern Recognition: Identify the correct sequence of images.
+1: 🔺
+2: 🔹
+3: ⭐
+4: 🔲
+
+1: 🔺 🔹 ⭐ 🔲
+2: 🔺 🔹 🔲 ⭐
+3: 🔺 ⭐ 🔹 🔲
+4: 🔺 ⭐ 🔲 🔹
+5: 🔺 🔲 🔹 ⭐
+6: 🔺 🔲 ⭐ 🔹
+7: 🔹 🔺 ⭐ 🔲
+8: 🔹 🔺 🔲 ⭐
+9: 🔹 ⭐ 🔺 🔲
+10: 🔹 ⭐ 🔲 🔺
+11: 🔹 🔲 🔺 ⭐
+12: 🔹 🔲 ⭐ 🔺
+13: ⭐ 🔺 🔹 🔲
+14: ⭐ 🔺 🔲 🔹
+15: ⭐ 🔹 🔺 🔲
+16: ⭐ 🔹 🔲 🔺
+17: ⭐ 🔲 🔺 🔹
+18: ⭐ 🔲 🔹 🔺
+19: 🔲 🔺 🔹 ⭐
+20: 🔲 🔺 ⭐ 🔹
+21: 🔲 🔹 🔺 ⭐
+22: 🔲 🔹 ⭐ 🔺
+23: 🔲 ⭐ 🔺 🔹
+24: 🔲 ⭐ 🔹 🔺
+
+Enter the pattern number (1-24): 3
+Pattern recognition correct.
+
+Keystroke Dynamics: Type the word 'security' and your typing rhythm will be analyzed.
+Press Enter to start...
+
+Type 's': 
+Type 'e': 
+Type 'c': 
+Type 'u': 
+Type 'r': 
+Type 'i': 
+Type 't': 
+Type 'y': 
+
+Keystroke dynamics analysis passed.
+
+Access Granted!
