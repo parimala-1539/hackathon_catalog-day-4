@@ -1,0 +1,15 @@
+Textual Password Entry: The user enters the password, which is verified against an encrypted version.
+
+User input: ******** (masked for security)
+Output: "Textual password correct."
+Image-Based Pattern Recognition: The user is presented with a sequence of images and must select the correct pattern.
+
+User input: 3 (the number corresponding to the correct pattern sequence)
+Output: "Pattern recognition correct."
+Keystroke Dynamics: The user types the word "security," and the system analyzes the timing between key presses.
+
+User input: Each letter of the word "security" (timing is measured internally)
+Output: "Keystroke dynamics analysis passed."
+Final Authentication Result: If all levels are passed, the system grants access.
+
+Output: "Access Granted!"
